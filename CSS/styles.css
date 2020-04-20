@@ -1,0 +1,138 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.container-fluid {
+  padding: 15% 10% 18%;
+  background-size: cover;
+  }
+  .paragraph-banner {
+    font-size: 1.25rem;
+    color: #363636;
+  }
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 4.5rem;
+  line-height: 1;
+  text-shadow: black 0.5px 0.5px;
+  color: #363636;
+}
+h2 {
+  font-weight: 700;
+  font-family: "Roboto", sans-serif;
+  font-size: 3rem;
+}
+h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+p {
+  font-size: 1.25rem;
+  color: #8f8f8f;
+}
+
+/* Navigation Bar */
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-size: 1rem;
+  font-family: "Roboto";
+}
+.phone {
+  font-weight: bold;
+  color: black;
+}
+
+/* Download buttons */
+.contact {
+  color: white;
+  margin: 3% 0 0;
+  text-align: center;
+  font-family: "Roboto";
+}
+
+/* Features section */
+#features {
+  padding: 10%;
+  background-color: #fff;
+}
+.feature-box {
+  padding: 3%;
+  text-align: center;
+}
+.fas {
+  color: #11999e;
+  margin-bottom: 1.5rem;
+}
+.fas:hover {
+  color: #40514e;
+}
+
+/* Testimonial section */
+#testimonials {
+  text-align: center;
+  background-color: #11999e;
+  color: #fff;
+}
+.testimonials-text {
+  font-weight: 400;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.carousel-item {
+  padding: 10% 15%;
+}
+
+/* Banks section */
+#banks {
+  background-color: white;
+  text-align: center;
+  padding: 10%;
+}
+.banks-p {
+    font-size: 1.25rem;
+  }
+.bank-logo {
+  width: 15%;
+  margin: 50px 20px 20px 50px;
+}
+
+/* Mortgage types section */
+.mortgage-types {
+  text-align: center;
+  padding: 10%;
+  background-color: #aacfcf;
+}
+.pricing-column {
+  padding: 3% 2%;
+}
+
+/* Experts section */
+#experts {
+  text-align: center;
+  padding: 5% 10% 10%;
+}
+.experts-text {
+  margin-top: 50px;
+}
+.design-element {
+  margin: 0 20px;
+  width: 70%;
+}
+
+/* Footer section */
+#footer {
+  background-color: #11999e;
+  text-align: center;
+  padding: 5%;
+}
+.footer-text {
+  font-size: 1rem;
+  color: white;
+}
